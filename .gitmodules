@@ -1,0 +1,6 @@
+[submodule "Home-Inventory-Controller"]
+	path = Home-Inventory-Controller
+	url = https://github.com/maddiethegm/Home-Inventory-Controller
+[submodule "Home-Inventory-Viewer"]
+	path = Home-Inventory-Viewer
+	url = https://github.com/maddiethegm/Home-Inventory-Viewer
