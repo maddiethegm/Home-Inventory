@@ -9,6 +9,7 @@
 # misc
 /client/.env
 /client/build
+.code-workspace
 .env
 .DS_Store
 .env.local
